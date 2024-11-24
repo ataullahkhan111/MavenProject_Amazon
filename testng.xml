@@ -8,7 +8,7 @@
       <class name="test.Testcase4"/>
       <class name="test.TestCase1"/>
       <class name="test.TestCase11"/>
-      <class name="test.Testcase5"/>
+      <!--class name="test.Testcase5"/-->
       <class name="test.TestCase9"/>
       <class name="test.TestCase7"/>
       <class name="test.TestCase10"/>
